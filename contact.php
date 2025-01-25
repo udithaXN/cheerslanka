@@ -28,7 +28,7 @@ require_once('parts/page-title.php');
                             <div class="icon"><i class="fas fa-envelope"></i></div>
                             <div class="content">
                                 <h5>Need Help & Support</h5>
-                                <div class="text"><i class="far fa-envelope"></i> <a href="mailto:info@cheerslankatravels.com">info@cheerslankatravels.com</a></div>
+                                <div class="text"><i class="far fa-envelope"></i> <a href="mailto:cheerslankajanaka@gmail.com">cheerslankajanaka@gmail.com</a></div>
                             </div>
                         </div>
                     </div>

@@ -70,7 +70,7 @@
                                 No.88/1,<br>
                                 Mederipitiya, deniyaya,<br>
                                 Sri Lanka.</li>
-                            <li><i class="fal fa-envelope text-white"></i> <a href="mailto:info@cheerslankatravels.com">info@cheerslankatravels.com</a></li>
+                            <li><i class="fal fa-envelope text-white"></i> <a href="mailto:cheerslankajanaka@gmail.com">cheerslankajanaka@gmail.com</a></li>
                             <li><i class="fal fa-phone-volume text-white"></i> <a href="callto:+88012334588">+94 76 424 8437</a></li>
                         </ul>
                     </div>
