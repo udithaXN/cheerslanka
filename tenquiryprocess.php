@@ -83,14 +83,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'udithanethsara079@gmail.com';                     // SMTP username
-        $mail->Password   = 'xtezowxvpxouviwm';                               // SMTP password
+        $mail->Username   = 'cheerslankajanaka@gmail.com';                     // SMTP username
+        $mail->Password   = 'bwybhghvunrrknxa';                               // SMTP password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587;
 
         //Recipients
-        $mail->setFrom('udithanethsara079@gmail.com', 'Cheers Lanka');
-        $mail->addAddress('udithanethsara079@gmail.com', 'Cheers Lanka');
+        $mail->setFrom('cheerslankajanaka@gmail.com', 'Cheers Lanka');
+        $mail->addAddress('cheerslankajanaka@gmail.com', 'Cheers Lanka');
 
         //Content
         $mail->isHTML(true);
