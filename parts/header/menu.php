@@ -2,7 +2,7 @@
 	<li><a href="index.php">Home</a></li>
 	<li class="dropdown"><a href="#">Packages</a>
 		<ul>
-			<li><a href="tour-details1.php">2 Days / 1 Night</a></li>
+			<li><a href="tour-details1.php">3 Days / 2 Night</a></li>
 			<li><a href="tour-details2.php">5 Days / 4 Night</a></li>
 			<li><a href="tour-details3.php">7 Days / 6 Night</a></li>
 			<li><a href="tour-details4.php">12 Days / 11 Night</a></li>

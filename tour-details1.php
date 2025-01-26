@@ -15,7 +15,7 @@ require_once('parts/page-title.php');
                 <div class="tour-header-content mb-15" data-aos="fade-left" data-aos-duration="1500" data-aos-offset="50">
                     <span class="location d-inline-block mb-10"><i class="fal fa-map-marker-alt"></i> Sri Lanka</span>
                     <div class="section-title pb-5">
-                        <h2>2 Days / 1 Night - Sri Lanka</h2>
+                        <h2>3 Days / 2 Night - Sri Lanka</h2>
                     </div>
                     <div class="ratting">
                         <i class="fas fa-star"></i>
